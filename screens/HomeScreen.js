@@ -31,6 +31,7 @@ export default function HomeScreen() {
 
         <View style={styles.getStartedContainer}>
           <DevelopmentModeNotice />
+          <View style={{width: 200, height:200, backgroundColor: '#ccc' }}></View>
         </View>
 
         <View style={styles.helpContainer}>
